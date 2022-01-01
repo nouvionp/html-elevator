@@ -4,8 +4,9 @@
   "description": "Sample html page to be used with AWS Proton",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'no tests yet'",
-    "build": "cp -R src dist"
+    "clean": "rm -rf ./dist",
+    "build": "echo 'copy html files to dist folder' && npm run clean && cp -R src dist",
+    "test": "echo 'no tests yet'"
   },
   "repository": {
     "type": "git",
