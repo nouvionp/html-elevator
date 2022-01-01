@@ -1,0 +1,20 @@
+{
+  "name": "html-elevator",
+  "version": "1.0.0",
+  "description": "Sample html page to be used with AWS Proton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'no tests yet'",
+    "build": "cp -R src dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nouvionp/html-elevator.git"
+  },
+  "author": "Patrick Nouvion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nouvionp/html-elevator/issues"
+  },
+  "homepage": "https://github.com/nouvionp/html-elevator#readme"
+}
