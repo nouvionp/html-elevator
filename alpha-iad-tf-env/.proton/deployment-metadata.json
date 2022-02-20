@@ -1,0 +1,9 @@
+{
+  "deploymentId" : "24e74b61-b39a-439c-9d36-7b73325c6480",
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:605109740225:environment/alpha-iad-tf-env",
+    "templateArn" : "arn:aws:proton:us-west-2:605109740225:environment-template/alpha-iad-tf-env-tpl",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
