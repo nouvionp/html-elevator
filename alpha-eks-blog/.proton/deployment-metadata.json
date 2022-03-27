@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:605109740225:environment/alpha-eks-blog",
+    "templateArn" : "arn:aws:proton:us-west-2:605109740225:environment-template/eks-mng-karpenter-with-new-vpc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "11"
+  }
+}
