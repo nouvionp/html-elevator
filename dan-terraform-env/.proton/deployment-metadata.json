@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "72f7249c-d3cb-48b5-80c9-16f02f4b284f",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:605109740225:environment/dan-terraform-env",
+    "templateArn" : "arn:aws:proton:us-east-1:605109740225:environment-template/dan-terraform-tpl",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
